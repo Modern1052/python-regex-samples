@@ -21,9 +21,9 @@
 | 60-62 | 12_startsAndEnds.py | 冒頭または末尾でマッチ | ^, $, \b |
 | 64-65 | 13_ignorecase.py | 大文字と小文字 | re.IGNORECASE |
 | 66-67 | 14_dotall.py | すべての文字と改行にマッチ | re.DOTALL |
-| 68-69 | 15_verbose.py | 正規表現の | re.VERBOSE |
+| 68-69 | 15_verbose.py | 正規表現の表記 | re.VERBOSE |
 | 71-72 | 16_sub.py | 文字の置き換え | .sub() |
-| 73-82 | 17_humre.py | humreモジュール | humre |
+| 73-82 | 17_humre.py | 正規表現の別の表記 | humre |
 | 84-91 | 18_phoneAndEmail.py | 電話番号とメールアドレスの検索 |
 
 ## 実行方法
