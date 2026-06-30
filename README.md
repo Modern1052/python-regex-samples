@@ -5,25 +5,25 @@
 
 ## サンプル一覧
 
-| ページ番号 | ファイル名 | 内容 |
-|----|----|----|
-| 16-22 | 1_search.py | searchメソッド |
-| 24-25 | 2_group.py | グループ化 |
-| 27-33 | 3_findall.py | findallメソッド |
-| 39-41 | 4_escape.py | エスケープ文字'\' |
-| 43-44 | 5_shorthandCharacterClass.py | 速記文字クラス |
-| 45 | 6_pipe.py | パイプ'\|' |
-| 46-48 | 7_characterClass.py | 文字クラス |
-| 49 | 8_dot.py | ドット'.' |
-| 51-53 | 9_quantifierSyntax.py | 量子化構文 |
-| 54-56 | 10_quantifierOperator.py | 量子化演算子 |
-| 57-58 | 11_greedyAndNongreedy.py | 非強欲なマッチ |
-| 60-62 | 12_startsAndEnds.py | 文頭または末尾でマッチ |
-| 64-65 | 13_ignorecase.py | IGNORECASEフラグ |
-| 66-67 | 14_dotall.py | DOTALLフラグ |
-| 68-69 | 15_verbose.py | VERBOSEフラグ |
-| 71-72 | 16_sub.py | 文字の置き換え |
-| 73-82 | 17_humre.py | humreモジュール |
+| ページ番号 | ファイル名 | 内容 | 使用構文 |
+|----|----|----|----|
+| 16-22 | 01_search.py | 文字列のマッチ | .search() |
+| 24-25 | 02_group.py | グループ化 | .group(), .groups() |
+| 27-33 | 03_findall.py | 全パターンのマッチ | .findall() | 
+| 39-41 | 04_escape.py | エスケープ | \ |
+| 43-44 | 05_shorthandCharacterClass.py | 速記文字クラス | \d |
+| 45 | 06_pipe.py | いずれかとマッチ | \| |
+| 46-48 | 07_characterClass.py | 文字クラス | [], ^, - |
+| 49 | 08_dot.py | すべての文字にマッチ | . |
+| 51-53 | 09_quantifierSyntax.py | 量子化構文 | {} |
+| 54-56 | 10_quantifierOperator.py | 量子化演算子 | ?, *, + |
+| 57-58 | 11_greedyAndNongreedy.py | 非強欲なマッチ | ? |
+| 60-62 | 12_startsAndEnds.py | 冒頭または末尾でマッチ | ^, $, \b |
+| 64-65 | 13_ignorecase.py | 大文字と小文字 | re.IGNORECASE |
+| 66-67 | 14_dotall.py | すべての文字と改行にマッチ | re.DOTALL |
+| 68-69 | 15_verbose.py | 正規表現の | re.VERBOSE |
+| 71-72 | 16_sub.py | 文字の置き換え | .sub() |
+| 73-82 | 17_humre.py | humreモジュール | humre |
 | 84-91 | 18_phoneAndEmail.py | 電話番号とメールアドレスの検索 |
 
 ## 実行方法
