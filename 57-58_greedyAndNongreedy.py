@@ -1,7 +1,7 @@
 import re
 
-pattern = r'(Ha){3,5}'
-#pattern = r'(Ha){3,5}?'
+#pattern = r'(Ha){3,5}'
+pattern = r'(Ha){3,5}?'
 #pattern = r'(Ha)+'
 #pattern = r'(Ha)+?'
 message = 'HaHaHaHaHaHa'
