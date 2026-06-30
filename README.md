@@ -12,7 +12,7 @@
 | 27-33 | 3_findall.py | findallメソッド |
 | 39-41 | 4_escape.py | エスケープ文字'\' |
 | 43-44 | 5_shorthandCharacterClass.py | 速記文字クラス |
-| 45 | 6_pipe.py | パイプ'|' |
+| 45 | 6_pipe.py | パイプ'\|' |
 | 46-48 | 7_characterClass.py | 文字クラス |
 | 49 | 8_dot.py | ドット'.' |
 | 51-53 | 9_quantifierSyntax.py | 量子化構文 |
