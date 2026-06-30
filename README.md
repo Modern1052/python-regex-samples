@@ -5,17 +5,17 @@
 
 ## サンプル一覧
 
-| ページ番号 | ファイル名 | 内容 | 使用構文 |
+| ページ番号 | ファイル名 | 内容 | 主な構文 |
 |----|----|----|----|
-| 16-22 | 01_search.py | 文字列のマッチ | '.search()' |
-| 24-25 | 02_group.py | グループ化 | (, ), .group() |
+| 16-22 | 01_search.py | 文字列のマッチ | .search() |
+| 24-25 | 02_group.py | グループ化 | ( ), .group() |
 | 27-33 | 03_findall.py | 全パターンのマッチ | .findall() | 
-| 39-41 | 04_escape.py | エスケープ | \ |
+| 39-41 | 04_escape.py | エスケープ | \\ |
 | 43-44 | 05_shorthandCharacterClass.py | 速記文字クラス | \d |
 | 45 | 06_pipe.py | いずれかとマッチ | \| |
-| 46-48 | 07_characterClass.py | 文字クラス | [, ], ^, - |
+| 46-48 | 07_characterClass.py | 文字クラス | [abc], ^, - |
 | 49 | 08_dot.py | すべての文字にマッチ | . |
-| 51-53 | 09_quantifierSyntax.py | 量子化構文 | {, } |
+| 51-53 | 09_quantifierSyntax.py | 量子化構文 | {m, n} |
 | 54-56 | 10_quantifierOperator.py | 量子化演算子 | ?, *, + |
 | 57-58 | 11_greedyAndNongreedy.py | 非強欲なマッチ | ? |
 | 60-62 | 12_startsAndEnds.py | 冒頭または末尾でマッチ | ^, $, \b |
