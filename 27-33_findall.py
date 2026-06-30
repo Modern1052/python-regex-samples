@@ -1,4 +1,5 @@
 import re
+
 pattern = r'\d{3}-\d{3}-\d{4}'
 message = '''\
 Call me at 415-555-1011 tomorrow. \
