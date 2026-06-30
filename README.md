@@ -1,5 +1,5 @@
 # python-regex-samples
-# Python 正規表現サンプル
+## Python 正規表現サンプル
 
 このリポジトリは、Pythonの正規表現に関する発表で使用したサンプルコードをまとめたものです。
 
