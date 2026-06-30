@@ -25,9 +25,3 @@
 | 71-72 | 16_sub.py | 文字の置き換え | .sub() |
 | 73-82 | 17_humre.py | 正規表現の別の表記 | humre |
 | 84-91 | 18_phoneAndEmail.py | 電話番号とメールアドレスの検索 |
-
-## 実行方法
-
-```bash
-python 01_phone.py
-```
