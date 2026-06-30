@@ -31,7 +31,3 @@
 ```bash
 python 01_phone.py
 ```
-
-## 参考
-
-Python標準ライブラリ `re` モジュールを使用しています。
