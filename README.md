@@ -13,9 +13,9 @@
 | 39-41 | 04_escape.py | エスケープ | \ |
 | 43-44 | 05_shorthandCharacterClass.py | 速記文字クラス | \d |
 | 45 | 06_pipe.py | いずれかとマッチ | \| |
-| 46-48 | 07_characterClass.py | 文字クラス | [], ^, - |
+| 46-48 | 07_characterClass.py | 文字クラス | [, ], ^, - |
 | 49 | 08_dot.py | すべての文字にマッチ | . |
-| 51-53 | 09_quantifierSyntax.py | 量子化構文 | {} |
+| 51-53 | 09_quantifierSyntax.py | 量子化構文 | {, } |
 | 54-56 | 10_quantifierOperator.py | 量子化演算子 | ?, *, + |
 | 57-58 | 11_greedyAndNongreedy.py | 非強欲なマッチ | ? |
 | 60-62 | 12_startsAndEnds.py | 冒頭または末尾でマッチ | ^, $, \b |
