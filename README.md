@@ -8,7 +8,7 @@
 | ページ番号 | ファイル名 | 内容 | 使用構文 |
 |----|----|----|----|
 | 16-22 | 01_search.py | 文字列のマッチ | .search() |
-| 24-25 | 02_group.py | グループ化 | .group(), .groups() |
+| 24-25 | 02_group.py | グループ化 | (, ), .group(), .groups() |
 | 27-33 | 03_findall.py | 全パターンのマッチ | .findall() | 
 | 39-41 | 04_escape.py | エスケープ | \ |
 | 43-44 | 05_shorthandCharacterClass.py | 速記文字クラス | \d |
