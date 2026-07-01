@@ -8,8 +8,8 @@
 別途インストールしてください。
 | ライブラリ | インストールコマンド | 使用するコード |
 |----|----|----|
-| humre | pip install humre | 17_humre.py |
-| pyperclip | pip install pyperclip | 18_phoneAndEmail.py |
+| humre | py -3.14 -m pip install humre | 17_humre.py |
+| pyperclip | py -3.14 -m pip install pyperclip | 18_phoneAndEmail.py |
 
 ## サンプルコード一覧
 
