@@ -1,5 +1,5 @@
 # Python 正規表現サンプルコード
-\n
+\n\n\n\n\n\n\n\n\n
 ## 動作環境
 - Python 3.14
 
