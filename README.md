@@ -11,7 +11,7 @@
 | pyperclip | py -3.14 -m pip install pyperclip | 18_phoneAndEmail.py |
 
 ## サンプルコード一覧
-
+資料のページ数に対応しています。
 | ページ番号 | ファイル名 | 内容 | 主な構文 |
 |----|----|----|----|
 | 16-22 | 01_search.py | 文字列のマッチ | .search() |
