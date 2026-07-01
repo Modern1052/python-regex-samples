@@ -1,4 +1,4 @@
-from humre inport *
+from humre import *
 
 pattern = group(
     exactly(3, DIGIT),
