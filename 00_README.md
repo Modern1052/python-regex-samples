@@ -13,11 +13,11 @@
 | 39-41 | 04_escape.py | エスケープ | \\ |
 | 43-44 | 05_shorthandCharacterClass.py | 速記文字クラス | \d, \w, \s |
 | 45 | 06_pipe.py | いずれかとマッチ | \| |
-| 46-48 | 07_characterClass.py | 文字クラス | [abc], ^, - |
+| 46-48 | 07_characterClass.py | 文字クラス | [abc], [^abc], [a-z] |
 | 49 | 08_dot.py | すべての文字にマッチ | . |
 | 51-53 | 09_quantifierSyntax.py | 量指定子構文 | {m, n} |
 | 54-56 | 10_quantifierOperator.py | 量指定子演算子 | ?, *, + |
-| 57-58 | 11_greedyAndNongreedy.py | 非強欲なマッチ | ? |
+| 57-58 | 11_greedyAndNongreedy.py | 非強欲なマッチ | {m, n}? |
 | 60-62 | 12_startsAndEnds.py | 冒頭または末尾でマッチ | ^, $, \b |
 | 64-65 | 13_ignorecase.py | 大文字と小文字 | re.IGNORECASE |
 | 66-67 | 14_dotall.py | すべての文字と改行にマッチ | re.DOTALL |
