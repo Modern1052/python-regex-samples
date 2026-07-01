@@ -15,7 +15,7 @@
 | 45 | 06_pipe.py | いずれかとマッチ | \| |
 | 46-48 | 07_characterClass.py | 文字クラス | [abc], [^abc], [a-z] |
 | 49 | 08_dot.py | すべての文字にマッチ | . |
-| 51-53 | 09_quantifierSyntax.py | 量指定構文 | {m, n} |
+| 51-53 | 09_quantifierSyntax.py | 量指定構文 | {m}, {m, n} |
 | 54-56 | 10_quantifierOperator.py | 量指定演算子 | ?, *, + |
 | 57-58 | 11_greedyAndNongreedy.py | 非強欲なマッチ | {m, n}? |
 | 60-62 | 12_startsAndEnds.py | 冒頭または末尾でマッチ | ^, $, \b |
